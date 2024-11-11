@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou o Thiago Magalhães</h1>
-*******************************************************************************************************************************************************
+*************************************************************************************************************************************************
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas com foco em Análise de Dados.</h3>
 
 - 💬 Me pergunte sobre **SQL, Hadoop, Python, Power B.I. , Power Query, Power Automate, AWS (LAMBDA, S3, ECR, ECS)**
