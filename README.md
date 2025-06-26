@@ -1,8 +1,8 @@
 <h1 align="center">Olá 👋, Eu sou o Thiago Magalhães</h1>
 ************************************************************************************************************************************************
-<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas com foco em Análise de Dados.</h3>
+<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas com foco em Engenharia de Dados.</h3>
 
-- 💬 Me pergunte sobre **SQL, Hadoop, Python, Power B.I. , Power Query, Power Automate, AWS (LAMBDA, S3, ECR, ECS)**
+- 💬 Me pergunte sobre **SQL, Hadoop, Python, Power B.I. , Power Query, Power Automate, Docker, AWS (LAMBDA, S3, ECR, ECS, ATHENA, CLOUDWATCH, GLUE)**
 
 - 📫 Você me acha em **thiago.dmagalhaes@hotmail.com**
 
